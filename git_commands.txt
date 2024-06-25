@@ -1,0 +1,20 @@
+=========BASIC COMMANDS==============
+git init 
+git status
+git add .
+git commit -m "commit message"
+git push 
+
+git clone link
+
+git remote origin main link
+ 
+git branch 
+git branch bug-fix
+git switch bug-fix
+
+git log 
+git log --oneline 
+git switch -c orange mode 
+git checkout dark mode 
+
